@@ -1,0 +1,9 @@
+{
+    "answers": [
+        {
+            "arch": "Architecture Dimensionality",
+            "bb": "Building block dimensionality",
+            "fam": "Family of the architected material"
+        }
+    ]
+}
